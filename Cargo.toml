@@ -1,0 +1,11 @@
+[package]
+name = "code_practice"
+version = "0.1.0"
+authors = ["zhiting zhu <zhitingz@cs.utexas.edu>"]
+edition = "2018"
+
+[dependencies]
+
+[lib]
+doctest = false
+test = true
