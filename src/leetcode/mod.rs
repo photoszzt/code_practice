@@ -1,3 +1,4 @@
 mod s0002_add_two_numbers;
+mod s0005_longest_palindromic_substring;
 mod s1081_smallest_subsequence_of_distinct_characters;
 mod util;
