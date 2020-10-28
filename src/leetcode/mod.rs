@@ -6,6 +6,8 @@ mod s0069_sqrtx;
 mod s0101_symmetric_tree;
 mod s0102_binary_tree_level_order_traversal;
 mod s0107_binary_tree_level_order_traversal_ii;
+mod s0144_binary_tree_preorder_traversal;
+mod s0145_binary_tree_postorder_traversal;
 mod s0146_lru_cache;
 mod s0516_longest_palindromic_subsequence;
 mod s0647_palindromic_substrings;
