@@ -2,6 +2,7 @@ mod s0001_two_sum;
 mod s0002_add_two_numbers;
 mod s0005_longest_palindromic_substring;
 mod s0006_zigzag_conversion;
+mod s0007_reverse_integer;
 mod s0069_sqrtx;
 mod s0101_symmetric_tree;
 mod s0102_binary_tree_level_order_traversal;
