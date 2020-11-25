@@ -16,4 +16,5 @@ mod s0146_lru_cache;
 mod s0516_longest_palindromic_subsequence;
 mod s0647_palindromic_substrings;
 mod s1081_smallest_subsequence_of_distinct_characters;
+mod s1662_check_if_two_string_arrays_are_equivalent;
 mod util;
