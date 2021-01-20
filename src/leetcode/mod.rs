@@ -5,6 +5,7 @@ mod s0006_zigzag_conversion;
 mod s0007_reverse_integer;
 mod s0008_string_to_integer_atoi;
 mod s0009_palindrome_number;
+mod s0017_letter_combinations_of_a_phone_number;
 mod s0069_sqrtx;
 mod s0101_symmetric_tree;
 mod s0102_binary_tree_level_order_traversal;
