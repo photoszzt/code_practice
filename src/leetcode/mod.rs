@@ -11,6 +11,7 @@ mod s0101_symmetric_tree;
 mod s0102_binary_tree_level_order_traversal;
 mod s0103_binary_tree_zigzag_level_order_traversal;
 mod s0107_binary_tree_level_order_traversal_ii;
+mod s0111_minimum_depth_of_binary_tree;
 mod s0144_binary_tree_preorder_traversal;
 mod s0145_binary_tree_postorder_traversal;
 mod s0146_lru_cache;
